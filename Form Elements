@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2> Complete Form Elements Demo</h2>
+
+    <form>
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            <!-- <label> and <input> -->
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name"><br><br>
+
+            <label for="age">Age:</label><br>
+            <input type="number" id="age" name="age"><br><br>
+        </fieldset>
+        <br>
+
+
+        <label for="country">Country:</label><br>
+        <select id="country" name="country">
+            <optgroup label="Asia">
+                <option value="india">India</option>
+                <option value="japan">Japan</option>
+            </optgroup>
+            <optgroup label="Europe">
+                <option value="uk">UK</option>
+                <option value="france">France</option>
+            </optgroup>
+        </select><br><br>
+
+
+        <label for="browser">Choose browser:</label><br>
+        <input list="browsers" id="browser" name="browser">
+        <datalist id="browsers">
+            <option value="Chrome">
+            <option value="Firefox">
+            <option value="Edge">
+        </datalist><br><br>
+
+
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="30"></textarea><br><br>
+
+
+        <button type="button" onclick="alert('Hello!')">Click Me</button><br><br>
+
+
+        <label for="num1">Number 1:</label>
+        <input type="number" id="num1" name="num1" value="5"><br>
+        <label for="num2">Number 2:</label>
+        <input type="number" id="num2" name="num2" value="10"><br>
+        <output name="result" for="num1 num2">15</output><br><br>
+
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <p><cite>All HTML form elements example</cite></p>
+
+</body>
+</html>
