@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h3>text formatting</h3>
+
+    <p><b>bold text</b></p>
+    <p><strong>strong text</strong></p>
+    <p><i>italic text</i></p>
+    <p><em>emphasized text</em></p>
+    <p><mark>marked text</mark></p>
+    <p><small>small text</small></p>
+    <p><del>deleted text</del></p>
+    <p><ins>inserted text</ins></p>
+    <p><sub>subscript</sub> and <sup>superscript</sup></p>
+
+</body>
+</html>
