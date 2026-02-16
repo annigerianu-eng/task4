@@ -18,7 +18,7 @@
     <h3>abbr</h3>
     <p><abbr title="HyperText Markup Language">HTML</abbr> is easy.</p>
 
-    <!-- <address> - for contact info -->
+   
     <h3>address</h3>
     <address>
         Written by John<br>
@@ -30,7 +30,7 @@
     <h3>cite</h3>
     <p><cite>The Mona Lisa</cite> by Leonardo da Vinci.</p>
 
-    <!-- <bdo> - for text direction -->
+  
     <h3>bdo</h3>
     <p><bdo dir="rtl">This text is right-to-left.</bdo></p>
 
