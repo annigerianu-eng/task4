@@ -6,7 +6,7 @@
 
     <h3>blockquote</h3>
     <blockquote cite="https://example.com">
-        This is a long quote from another source.
+        This is a long quote from another source
         It is indented by default.
     </blockquote>
 
