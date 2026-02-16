@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>HTML Media Examples</h2>
+
+   
+    <h3> HTML Video</h3>
+    <video width="320" height="240" controls>
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+        Your browser does not support video.
+    </video>
+
+    
+    <h3> HTML Audio</h3>
+    <audio controls>
+        <source src="https://www.w3schools.com/html/horse.ogg" type="audio/ogg">
+        <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+        Your browser does not support audio.
+    </audio>
+
+   
+    <h3> HTML Plug-in </h3>
+    <object data="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" width="300" height="200">
+        Cannot display PDF
+    </object>
+
+    
+    <h3> HTML Plug-in </h3>
+    <embed src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" width="300" height="200">
+
+   
+    <h3> HTML YouTube Video</h3>
+    <iframe width="320" height="240" 
+        src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    </iframe>
+
+    <hr>
+    <p><cite>HTML Media Elements Demo</cite></p>
+
+</body>
+</html>
