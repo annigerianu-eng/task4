@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body style="background-image: url('https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=600'); background-size: cover; background-repeat: no-repeat;">
+
+    <div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; margin: 50px; border-radius: 10px;">
+        <h2>🌌 Solar System</h2>
+
+        <p>The Solar System includes the Sun, eight planets, and their moons.</p>
+
+        <h3>Planets</h3>
+        <blockquote>
+            Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+        </blockquote>
+
+        <p>Source: <cite>NASA</cite></p>
+    </div>
+
+</body>
+</html>
