@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>HTML Quotation & Citation Elements</h2>
+
+
+    <h3>blockquote</h3>
+    <blockquote cite="https://example.com">
+        This is a long quote from another source.
+        It is indented by default.
+    </blockquote>
+
+
+    <h3>q</h3>
+    <p>The goal is: <q>write simple code</q>.</p>
+
+   
+    <h3>abbr</h3>
+    <p><abbr title="HyperText Markup Language">HTML</abbr> is easy.</p>
+
+    <!-- <address> - for contact info -->
+    <h3>address</h3>
+    <address>
+        Written by John<br>
+        Visit us at:<br>
+        example.com
+    </address>
+
+   
+    <h3>cite</h3>
+    <p><cite>The Mona Lisa</cite> by Leonardo da Vinci.</p>
+
+    <!-- <bdo> - for text direction -->
+    <h3>bdo</h3>
+    <p><bdo dir="rtl">This text is right-to-left.</bdo></p>
+
+</body>
+</html>
