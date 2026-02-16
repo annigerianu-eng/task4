@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2> Name & Age Form</h2>
+
+    <form>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" placeholder="Enter your name"><br><br>
+
+        <label for="age">Age:</label><br>
+        <input type="number" id="age" name="age" min="1" max="120" placeholder="Enter your age"><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <p><cite>Simple user info form</cite></p>
+
+</body>
+</html>
