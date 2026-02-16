@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2> Student Marks Table</h2>
+
+    <table border="1" cellpadding="8" style="border-collapse: collapse;">
+        <tr>
+            <th>Student</th>
+            <th>Math</th>
+            <th>Science</th>
+            <th>English</th>
+        </tr>
+        <tr>
+            <td>John</td>
+            <td>85</td>
+            <td>90</td>
+            <td>78</td>
+        </tr>
+        <tr>
+            <td>Sarah</td>
+            <td>92</td>
+            <td>88</td>
+            <td>95</td>
+        </tr>
+        <tr>
+            <td>Mike</td>
+            <td>76</td>
+            <td>82</td>
+            <td>84</td>
+        </tr>
+    </table>
+
+    <p><cite>Term 1 Examination Results</cite></p>
+
+</body>
+</html>
