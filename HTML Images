@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2> Solar System Image</h2>
+
+
+    <img src="https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=600" 
+         alt="Solar system illustration" 
+         width="500"
+         title="The Solar System">
+
+    <p><cite>Image: Solar system illustration</cite></p>
+
+    <hr>
+
+    <h3>About</h3>
+    <blockquote cite="https://solarsystem.nasa.gov">
+        The Solar System has one star, eight planets, and five dwarf planets.
+    </blockquote>
+
+    <p>Source: <cite>NASA</cite></p>
+
+</body>
+</html>
